@@ -4,6 +4,7 @@ This repository contains my machine learning notebooks while learning Machine Le
 ## current progress
 - Model Representation implementation
 - Cost Function implementation
+- Gradient Descent implementation
 
 
 This repository is part of journey in understanding machine learning.
