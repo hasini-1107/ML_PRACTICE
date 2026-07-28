@@ -2,7 +2,8 @@
 This repository contains my machine learning notebooks while learning Machine Learning.
 
 ## current progress
-- Model Representation
+- Model Representation implementation
+- Cost Function implementation
 
 
 This repository is part of journey in understanding machine learning.
